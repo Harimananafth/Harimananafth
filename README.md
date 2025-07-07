@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Harimananafth!
+# 👋 Hi there, I'm Fitahiana!
 
 ## 👨‍🎓 About Me
 - **Student** passionate about web development.
@@ -12,6 +12,3 @@
 ## 💼 Professional Goals
 - Focused on becoming a professional developer and growing my skills in the industry.
 
-<!--
-Feel free to customize this README as you gain new experiences or want to highlight more about yourself!
--->
