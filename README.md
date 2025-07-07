@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Harimananafth!
+
+## 👨‍🎓 About Me
+- **Student** passionate about web development.
+- **Frontend Stack:** Experienced with **Vue.js** and **React.js**.
+- **Backend:** Some experience with **PHP**.
+- Always learning and exploring new technologies.
+
+## 🎮 Hobbies
+- Love playing video games in my free time!
+
+## 💼 Professional Goals
+- Focused on becoming a professional developer and growing my skills in the industry.
 
 <!--
-**Harimananafth/Harimananafth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to customize this README as you gain new experiences or want to highlight more about yourself!
 -->
