@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 About Me
 - **Student** passionate about web development.
-- **Frontend Stack:** Experienced with **Vue.js** and **React.js**.
+- **Frontend Stack:** Experienced with **Vue.js**.
 - **Backend:** Some experience with **PHP**.
 - Always learning and exploring new technologies.
 
