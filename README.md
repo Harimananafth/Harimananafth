@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Fitahiana!
 
 ## 👨‍🎓 About Me
-- **Student** passionate about web development.
+- **Student** passionate about development's universe.
 - Always learning and exploring new technologies.
 
 ## 🎮 Hobbies
