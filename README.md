@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fitahiana!
+# Hi there, I'm Fitahiana!
 
 ## 👨‍🎓 About Me
 - **Student** passionate about development's universe.
